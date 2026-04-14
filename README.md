@@ -1,4 +1,4 @@
-# 🛒 Projeto Web com CI/CD
+# 🛒 Projeto Web com CI/CD - Cardápio Digital
 
 ![CI](https://github.com/LivyaCarvalho/Trabalho-Guilherme/actions/workflows/ci.yml/badge.svg)
 
@@ -40,6 +40,7 @@ Para executar os testes localmente:
 
 ```bash
 npm test
+```
 
 ## ⚙️ Integração Contínua (CI/CD)
 
@@ -96,9 +97,11 @@ Caso deseje rodar o projeto localmente:
 
 ```bash
 npm install
-
+```
 Executar os testes:
+```bash
 npm test
+```
 
 ##✅ Conclusão
 
