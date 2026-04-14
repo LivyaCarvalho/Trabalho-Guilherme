@@ -35,7 +35,7 @@ describe("Testes do carrinho", () => {
 
     const total = calcularTotal(carrinho);
 
-    expect(total).toBe(25);
+    expect(total).toBe(30);
   });
 
   test("Carrinho vazio", () => {
