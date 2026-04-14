@@ -71,7 +71,7 @@ Após aprovação, o código foi integrado ao projeto
 
 Essa prática contribui para a melhoria da qualidade do software e redução de erros.
 
-##📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 /css  
 /js  
 node_modules  
@@ -103,12 +103,12 @@ Executar os testes:
 npm test
 ```
 
-##✅ Conclusão
+## ✅ Conclusão
 
 O projeto permitiu aplicar na prática conceitos essenciais de qualidade de software, como testes automatizados, integração contínua e revisão de código.
 
 Além disso, proporcionou experiência com ferramentas amplamente utilizadas no mercado, como GitHub e GitHub Actions, contribuindo para a formação prática na área de desenvolvimento de software.
 
-##👥 Autores
+## 👥 Autores
 Livya Carvalho
 Nathan Massamb
